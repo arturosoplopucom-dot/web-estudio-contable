@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 58" role="img" aria-label="Integra Soluciones">
+  <title>Integra Soluciones</title>
+  <defs>
+    <linearGradient id="gw1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="rgba(255,255,255,1)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.6)"/>
+    </linearGradient>
+    <linearGradient id="gw2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="rgba(255,255,255,0.7)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.35)"/>
+    </linearGradient>
+  </defs>
+  <polygon points="19,2  33,16  19,30  5,16"   fill="url(#gw1)"/>
+  <polygon points="36,2  50,16  36,30  22,16"  fill="url(#gw2)"/>
+  <polygon points="19,32 33,46  19,58  5,46"   fill="url(#gw2)"/>
+  <polygon points="36,32 50,46  36,58  22,46"  fill="rgba(255,255,255,0.4)"/>
+  <text x="62" y="36"
+    font-family="'Arial Black','Franklin Gothic Heavy','Impact',Arial,sans-serif"
+    font-size="32" font-weight="900" fill="#ffffff" letter-spacing="-0.5">Integra</text>
+  <text x="96" y="52"
+    font-family="'Arial','Helvetica Neue',Arial,sans-serif"
+    font-size="13" font-style="italic" font-weight="400"
+    fill="rgba(255,255,255,0.72)" letter-spacing="2.5">Soluciones</text>
+</svg>

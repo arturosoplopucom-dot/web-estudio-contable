@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 58" role="img" aria-label="Integra Soluciones">
+  <title>Integra Soluciones</title>
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1e2e"/>
+      <stop offset="100%" stop-color="#1e3a54"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#1e3a54"/>
+      <stop offset="100%" stop-color="#3a566c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 4 rombos 2×2 — tamaño y proporciones del logo original -->
+  <!-- Fila superior -->
+  <polygon points="19,2  33,16  19,30  5,16"   fill="url(#g1)"/>  <!-- sup-izq oscuro -->
+  <polygon points="36,2  50,16  36,30  22,16"  fill="url(#g2)"/>  <!-- sup-der medio -->
+  <!-- Fila inferior -->
+  <polygon points="19,32 33,46  19,58  5,46"   fill="url(#g2)"/>  <!-- inf-izq medio -->
+  <polygon points="36,32 50,46  36,58  22,46"  fill="#3a566c"/>   <!-- inf-der claro -->
+
+  <!-- "Integra" bold, alineado al eje del ícono -->
+  <text
+    x="62" y="36"
+    font-family="'Arial Black','Franklin Gothic Heavy','Impact',Arial,sans-serif"
+    font-size="32"
+    font-weight="900"
+    fill="#0c1a2e"
+    letter-spacing="-0.5"
+  >Integra</text>
+
+  <!-- "Soluciones" italic — desplazado a la derecha como en el logo original -->
+  <text
+    x="96" y="52"
+    font-family="'Arial','Helvetica Neue',Arial,sans-serif"
+    font-size="13"
+    font-style="italic"
+    font-weight="400"
+    fill="#1a3a6b"
+    letter-spacing="2.5"
+  >Soluciones</text>
+</svg>
